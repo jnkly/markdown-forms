@@ -1,66 +1,12 @@
-# Form title
+# Markdown forms
 
-`# This is the form title`
+Simple markdown style syntax for form mockups.
 
-## Form subheading
-`## This is a subheading`
+## How to use
+Copy and paste form components to create forms.
 
-## Form paragraph
-`This is the introduction copy, which tells you what the form enables you to do.`
+Use during early stages of form design to create quick digital mockups as text files.
 
-## Fieldset and legend
+[See form components](https://jnkly.github.io/markdown-forms/components)
 
-`-- Legend --`
-
-## Text inputs
-
-### Text field
-`[__________]`
-
-### Text field password
-`[**********]`
-
-### Text area
-```
-[____________________]
-[____________________]
-```
-
-## Checkboxes
-```
-Are you either of these?
-[X] Thing one
-[ ] Thing two
-[X] Thing three
-```
-
-## Radio buttons
-```
-Do you blame it on the?
-( ) Sunshine
-( ) Good times
-(X) Boogie
-```
-
-## Dropdown
-```
-What is your favorite car?
-[ Volvo ]
-[ Saab ]
-[-- Fiat  --]
-[ Audi ]
-```
-
-## Buttons
-`[!! Alert !!]`
-
-`[>> Submit <<]`
-
-## Input help text
-To show help text, just use paragraph.
-
-## Labels
-Use `()` to show labels.
-
-## Required question
-Use `*` to show required questions.
+[See sample form](https://jnkly.github.io/markdown-forms/sample)
