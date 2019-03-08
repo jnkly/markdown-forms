@@ -1,9 +1,9 @@
 # Markdown forms
 
-Simple markdown style syntax for form mockups.
+Simple markdown style approach for text based form mockups.
 
 ## How to use
-Copy and paste form components to create forms.
+Copy and paste form components to create form mockups.
 
 Use during early stages of form design to create quick digital mockups as text files.
 
