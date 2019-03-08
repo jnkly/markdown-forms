@@ -1,37 +1,41 @@
 # Markdown forms
-
 Simple markdown style approach for text based form mockups.
 
-## How to use
-Copy and paste form components to create form mockups.
+## Why?
+Create quick digital mockups as text files during early stages of form design. Use special characters to visually explain form elements. Text based forms can then be converted to HTML to create working forms.
 
-Use during early stages of form design to create quick digital mockups as text files.
+No graphics software needed! :)
+
+## How to use
+Copy and paste form components to create form mockups. Edit as needed.
 
 ---
 
-# Form title
+## Headings
 
+Form title
 `# This is the form title`
 
-## Form subheading
+Form subheading
 `## This is a subheading`
 
-## Form paragraph
+Form paragraph
 `This is the introduction copy, which tells you what the form enables you to do.`
 
 ## Fieldset and legend
 
+Legend
 `-- Legend --`
 
 ## Text inputs
 
-### Text field
+Text field
 `[__________]`
 
-### Text field password
+Text field password
 `[**********]`
 
-### Text area
+Text area
 ```
 [____________________]
 [____________________]
@@ -68,7 +72,10 @@ What is your favorite car?
 `[>> Submit <<]`
 
 ## Input help text
-To show help text, just use paragraph.
+```
+[__________]
+To show help text, just use paragraph below the input.
+```
 
 ## Labels
 Use `()` to show labels.
