@@ -1,57 +1,66 @@
-# This is the form title
+# Form title
 
-## This is a subheading
+`# This is the form title`
 
-This is the introduction copy, which tells you what the form enables you to do.
+## Form subheading
+`## This is a subheading`
+
+## Form paragraph
+`This is the introduction copy, which tells you what the form enables you to do.`
 
 ## Fieldset and legend
 
--- Legend --
+`-- Legend --`
 
 ## Text inputs
 
-Text field
-[__________]
+### Text field
+`[__________]`
 
-Text field password
-[**********]
+### Text field password
+`[**********]`
 
-Text area
+### Text area
+```
 [____________________]
 [____________________]
+```
 
 ## Checkboxes
-
+```
 Are you either of these?
 [X] Thing one
 [ ] Thing two
 [X] Thing three
+```
 
 ## Radio buttons
-
+```
 Do you blame it on the?
 ( ) Sunshine
 ( ) Good times
 (X) Boogie
+```
 
 ## Dropdown
-
+```
 What is your favorite car?
 [ Volvo ]
 [ Saab ]
 [-- Fiat  --]
 [ Audi ]
+```
 
 ## Buttons
-[!! Alert !!]
+`[!! Alert !!]`
 
-[>> Submit <<]
+`[>> Submit <<]`
 
 ## Input help text
 To show help text, just use paragraph.
 
 ## Labels
-Use () to show labels.
+Use `()` to show labels.
 
 ## Required question
-Use * to show required questions.
+Use `*` to show required questions.
