@@ -2,11 +2,14 @@
 Simple markdown style approach for text based form mockups.
 
 ## Why?
-Create quick digital mockups as text files during early stages of form design. Use special characters to visually explain form elements. Text based forms can then be converted to HTML to create working forms.
+Create quick digital mockups as text files during early stages of form design.
 
-No graphics software needed! :)
+## How
+Use special characters to visually explain form elements.
 
-## How to use
+No graphics software needed! :smiley:
+
+## Get started
 Copy and paste form components to create form mockups. Edit as needed.
 
 ---
