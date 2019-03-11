@@ -17,25 +17,31 @@ Copy and paste form components to create form mockups. Edit as needed.
 ## Headings
 
 Form title
+
 `# This is the form title`
 
 Form subheading
+
 `## This is a subheading`
 
 Form paragraph
+
 `This is the introduction copy, which tells you what the form enables you to do.`
 
 ## Fieldset and legend
 
 Legend
+
 `-- Legend --`
 
 ## Text inputs
 
 Text field
+
 `[__________]`
 
 Text field password
+
 `[**********]`
 
 Text area
@@ -70,6 +76,7 @@ What is your favorite car?
 ```
 
 ## Buttons
+
 `[!! Alert !!]`
 
 `[>> Submit <<]`
